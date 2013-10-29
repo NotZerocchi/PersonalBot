@@ -1,0 +1,34 @@
+This is PersonalBot v0.1 created by Zerocchi. The project started on October 25, 2013.
+
+============================================
+FEATURES
+============================================
+
+1. Basic calculations
+The bot can perform basic calculation i.e. addition, subtraction, multiplication and division up to two operands.
+
+2. Twitter
+The bot are able to tweet providing all the keys were manually inserted into the script.
+
+3. Web Browsing Capabilities
+	3.1 Ability to handle the URL given by opening it in your default web browser.
+	3.2 Able to search on Wikipedia based on keyword given.
+
+
+=============================================
+ISSUES
+=============================================
+
+- General: Can't handle more than one keyword
+- Calc: Error when input a string into num variable
+- Browser: The script is usable but Firefox bug made it untidy
+- Twitter: Cannot view tweethandlers who mentioned me
+
+=============================================
+TO-DO
+=============================================
+- Fix the issues
+- Add Features: 
+	* Bot will react/greet based on time
+- Remove Features:
+	* none
