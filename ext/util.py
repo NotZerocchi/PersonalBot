@@ -23,3 +23,7 @@ def web(url):
 def wiki(word):
 	webbrowser.open("http://en.wikipedia.org/wiki/" + word)
 
+def google(word):
+	webbrowser.open("https://www.google.com/search?q=" + word)
+
+

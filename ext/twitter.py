@@ -1,3 +1,5 @@
+import sys
+sys.path.append("lib")
 import tweepy
 
 CONSUMER_KEY = '4y0PH8sc0jDYX13rKYwKDg'
