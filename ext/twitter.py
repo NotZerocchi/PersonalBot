@@ -4,8 +4,8 @@ import tweepy
 
 CONSUMER_KEY = '4y0PH8sc0jDYX13rKYwKDg'
 CONSUMER_SECRET = 'lnCP7qtbgSM3gIKiEIpEvr2fuQiWpI5H71gfpuy2s'
-ACCESS_KEY = '126876549-yqLaAS6Qk844F3PaUkcahIKJ0DfG0023UIQV6o3s'
-ACCESS_SECRET = 'I6gpupvn83iFJ7b0u9Haty2CZYyisXAq359rqtwgd04db'
+ACCESS_KEY = # redacted
+ACCESS_SECRET = # redacted
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
